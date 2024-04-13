@@ -11,15 +11,11 @@ Technologies used:
   - Spring Security 6
   - jsonwebtoken
 
-## YouTube Channel
-
-   For a detailed step-by-step explanation of the login implementation, please visit https://youtu.be/nwqQYCM4YT8.
-
 ## Installation
 
 Follow these steps to install and run the project:
 
-1. Clone the repository: `git clone https://github.com/irojascorsico/spring-boot-jwt-authentication.git`
+1. Clone the repositor
 2. Navigate to the project directory: `cd your-repo`
 3. Build the project using Maven:: `mvn clean install`
 4. Run the project: `mvn spring-boot:run`
